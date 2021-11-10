@@ -2,6 +2,8 @@
  
 # TITLE OF THE PAPER
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 </div>
 
 ## Description
@@ -23,9 +25,9 @@ for Digital Humanities (NLP4DH)](https://rootroo.com/en/nlp4dh-workshop/) co-loc
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 ```sh
-git clone https://github.com/git-username/git-repo.git
+git clone https://github.com/unipv-larl/preverbs.git
 ```
-or [download a zip archive](https://github.com/git-username/git-repo/archive/master.zip).
+or [download a zip archive](https://github.com/unipv-larl/preverbs/archive/master.zip).
 
 ## Requirements
 
