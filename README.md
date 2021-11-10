@@ -3,7 +3,7 @@
 # TITLE OF THE PAPER
 
 [![Conference](https://img.shields.io/badge/conference-ICON--2021-blue.svg)](http://icon2021.nits.ac.in/)
-[![Workshop]()(https://img.shields.io/badge/workshop-NLP4DH-9cf.svg)](https://rootroo.com/en/nlp4dh-workshop/)
+[![Workshop](https://img.shields.io/badge/workshop-NLP4DH-9cf.svg)](https://rootroo.com/en/nlp4dh-workshop/)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 </div>
