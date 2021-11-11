@@ -127,7 +127,7 @@ email: [prova@mail.com](mailto:prova@mail.com)
 
 email: [prova@mail.com](mailto:prova@mail.com)
 
-## Licence
+## License
 
 The data are distributed under a [CC-BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).
 
