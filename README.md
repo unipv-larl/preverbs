@@ -12,15 +12,26 @@
 
 This is the repository for the paper [*TITLE OF THE PAPER*](), presented at the [Workshop on Natural Language Processing
 for Digital Humanities (NLP4DH)](https://rootroo.com/en/nlp4dh-workshop/) co-located with 
-[ICON 2021](http://icon2021.nits.ac.in/) by [authors](link).
+[ICON 2021](http://icon2021.nits.ac.in/) by Chiara Zanchi, Erica Biagetti and Luca Brigada Villa.
 
 ## Abstract
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lobortis mattis orci. In tempus tincidunt ligula, quis
-> aliquet lacus vestibulum iaculis. Proin pulvinar tincidunt velit, sed tempus sem aliquet non. Pellentesque fermentum
-> erat sit amet tempus ullamcorper. Nulla posuere dui vehicula, gravida nulla id, condimentum felis. Sed eu ligula
-> cursus, tempus dui at, consectetur urna. Vivamus viverra leo eget libero hendrerit eleifend. Nulla at erat at eros
-> pellentesque cursus. Mauris laoreet nisl sit amet ex facilisis, sed interdum felis luctus.
+> Indo-European preverbs are uninflected
+morphemes attaching to verbs and
+modifying verbal meaning. In Early Vedic
+and Homeric Greek, the same uninflected
+morphemes held ambiguous morphosyntactic
+status which raises issues
+for syntactic annotation. In this paper, we
+focus on the annotation of preverbs in so-
+called “absolute” position in two treebanks
+annotated according to the Universal
+Dependencies scheme. After discussing
+some issues related to the current
+annotation, we propose a new scheme that
+better accounts for the variety of absolute
+constructions in which preverbs occur as
+well as for their syntactic function.
 
 ## Download
 
@@ -115,17 +126,17 @@ puras, purā, prati*
 
 ## Authors
 
-### [Name Surname]()
+### Chiara Zanchi
 
 email: [prova@mail.com](mailto:prova@mail.com)
 
-### [Name Surname]()
+### Erica Biagetti
 
 email: [prova@mail.com](mailto:prova@mail.com)
 
-### [Name Surname]()
+### Luca Brigada Villa
 
-email: [prova@mail.com](mailto:prova@mail.com)
+email: [luca.brigadavilla@unibg.it](mailto:luca.brigadavilla@unibg.it)
 
 ## License
 
