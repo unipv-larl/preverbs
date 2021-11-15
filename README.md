@@ -1,6 +1,6 @@
 <div align="center">
  
-# TITLE OF THE PAPER
+# Annotating “absolute” preverbs in the Homeric and Vedic treebanks
 
 [![Conference](https://img.shields.io/badge/conference-ICON--2021-blue.svg)](http://icon2021.nits.ac.in/)
 [![Workshop](https://img.shields.io/badge/workshop-NLP4DH-9cf.svg)](https://rootroo.com/en/nlp4dh-workshop/)
@@ -10,9 +10,10 @@
 
 ## Description
 
-This is the repository for the paper [*TITLE OF THE PAPER*](), presented at the [Workshop on Natural Language Processing
-for Digital Humanities (NLP4DH)](https://rootroo.com/en/nlp4dh-workshop/) co-located with 
-[ICON 2021](http://icon2021.nits.ac.in/) by Chiara Zanchi, Erica Biagetti and Luca Brigada Villa.
+This is the repository for the paper [*Annotating “absolute” preverbs in the Homeric and Vedic treebanks*](), presented
+at the [Workshop on Natural Language Processing for Digital Humanities
+(NLP4DH)](https://rootroo.com/en/nlp4dh-workshop/) co-located with [ICON 2021](http://icon2021.nits.ac.in/) by Chiara
+Zanchi, Erica Biagetti and Luca Brigada Villa.
 
 ## Abstract
 
