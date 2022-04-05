@@ -2,8 +2,8 @@
  
 # Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks
 
-[![Conference](https://img.shields.io/badge/conference-LREC--2022-blue.svg)](http://icon2021.nits.ac.in/)
-[![Workshop](https://img.shields.io/badge/workshop-LT4HALA-9cf.svg)](https://rootroo.com/en/nlp4dh-workshop/)
+[![Conference](https://img.shields.io/badge/conference-LREC--2022-blue.svg)](https://lrec2022.lrec-conf.org/en/)
+[![Workshop](https://img.shields.io/badge/workshop-LT4HALA-9cf.svg)](https://circse.github.io/LT4HALA/2022/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 </div>
@@ -11,7 +11,7 @@
 ## Description
 
 This is the repository for the paper [*Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks*](), presented
-at the [2nd Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA)]() by Chiara
+at the [2nd Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA)](https://circse.github.io/LT4HALA/2022/) co-located with [LREC 2022](https://lrec2022.lrec-conf.org/en/) by Chiara
 Zanchi, Erica Biagetti and Luca Brigada Villa.
 
 ## Abstract
