@@ -1,25 +1,24 @@
 <div align="center">
  
-# Annotating “absolute” preverbs in the Homeric and Vedic treebanks
+# Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks
 
-[![Conference](https://img.shields.io/badge/conference-ICON--2021-blue.svg)](http://icon2021.nits.ac.in/)
-[![Workshop](https://img.shields.io/badge/workshop-NLP4DH-9cf.svg)](https://rootroo.com/en/nlp4dh-workshop/)
+[![Conference](https://img.shields.io/badge/conference-LREC--2022-blue.svg)](http://icon2021.nits.ac.in/)
+[![Workshop](https://img.shields.io/badge/workshop-LT4HALA-9cf.svg)](https://rootroo.com/en/nlp4dh-workshop/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 </div>
 
 ## Description
 
-This is the repository for the paper [*Annotating “absolute” preverbs in the Homeric and Vedic treebanks*](), presented
-at the [Workshop on Natural Language Processing for Digital Humanities
-(NLP4DH)](https://rootroo.com/en/nlp4dh-workshop/) co-located with [ICON 2021](http://icon2021.nits.ac.in/) by Chiara
+This is the repository for the paper [*Annotating “Absolute” Preverbs in the Homeric and Vedic Treebanks*](), presented
+at the [2nd Workshop on Language Technologies for Historical and Ancient Languages (LT4HALA)]() by Chiara
 Zanchi, Erica Biagetti and Luca Brigada Villa.
 
 ## Abstract
 
 > Indo-European preverbs are uninflected
 morphemes attaching to verbs and
-modifying verbal meaning. In Early Vedic
+modifying their meaning. In Early Vedic
 and Homeric Greek, the same uninflected
 morphemes held ambiguous morphosyntactic
 status which raises issues
@@ -129,11 +128,11 @@ puras, purā, prati*
 
 ### Chiara Zanchi
 
-email: [prova@mail.com](mailto:prova@mail.com)
+email: [chiara.zanchi01@unipv.it](mailto:chiara.zanchi01@unipv.it)
 
 ### Erica Biagetti
 
-email: [prova@mail.com](mailto:prova@mail.com)
+email: [erica.biagetti@unipv.it](mailto:erica.biagetti@unipv.it)
 
 ### Luca Brigada Villa
 
